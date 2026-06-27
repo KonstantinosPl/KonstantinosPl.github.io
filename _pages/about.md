@@ -33,7 +33,7 @@ permalink: /about/
 
 {% if site.data.horizon %}
 <div class="section-card">
-<h3>Horizon Europe Programmes</h3>
+<h3>Horizon Europe</h3>
 <ul>
 {% for horizon in site.data.horizon %}
 <li>{{ horizon.name }}</li>
@@ -42,18 +42,18 @@ permalink: /about/
 </div>
 {% endif %}
 
-{% if site.data.awards %}
+{% if site.data.erasmus %}
 <div class="section-card">
-<h3>Awards</h3>
+<h3>ERASMUS+</h3>
 <ul>
-{% for award in site.data.awards %}
+{% for award in site.data.erasmus %}
 <li>{{ award.name | replace: "-","&#8211;" }}</li>
 {% endfor %}
 </ul>
 </div>
 {% endif %}
 
-{% if site.data.people %}
+<!-- {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>
 <ul>
@@ -62,9 +62,9 @@ permalink: /about/
 {% endfor %}
 </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
-{% if site.data.funders %}
+<!-- {% if site.data.funders %}
 <div class="section-card">
 <h4>Sponsors</h4>
 <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
@@ -73,4 +73,4 @@ permalink: /about/
 {% endfor %}
 </div>
 </div>
-{% endif %}
+{% endif %} -->
