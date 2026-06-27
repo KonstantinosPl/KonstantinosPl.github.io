@@ -53,16 +53,16 @@ permalink: /about/
 </div>
 {% endif %}
 
-<!-- {% if site.data.people %}
+{% if site.data.others %}
 <div class="section-card">
-<h3>Students and Mentoring</h3>
+<h3>Other</h3>
 <ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+{% for other in site.data.others %}
+<li>{{ other.name }}, {{ other.location }} ({{ other.degree }}, {{ other.year }})</li>
 {% endfor %}
 </ul>
 </div>
-{% endif %} -->
+{% endif %}
 
 <!-- {% if site.data.funders %}
 <div class="section-card">
