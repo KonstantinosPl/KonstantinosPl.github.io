@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Teaching"
 layout: gridlay
 sitemap: false
@@ -14,4 +14,4 @@ permalink: /teaching/
 <li>Graduate QED Seminar (1953&#8211;88)</li>
 <li>Physics X: Informal undergraduate Q&amp;A sessions (1961&#8211;78)</li>
 </ul>
-</div>
+</div> -->
