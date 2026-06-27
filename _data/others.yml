@@ -1,7 +1,8 @@
 # Other Research Activities, shown on the About page.
 # Each entry needs: name, location, degree, year
+
 - name: ECMWF Code for Earth Challenge 2025
-- location: European Centre for Medium-Range Weather Forecasts (ECMWF)
-- degree: Challenge 20 - Bridge the Gap. Bridging Gaps in Streamflow Observations with ML-driven Solutions.
-- year: 2024
+  location: European Centre for Medium-Range Weather Forecasts (ECMWF)
+  degree: "Challenge 20 – Bridge the Gap: Bridging Gaps in Streamflow Observations with ML-driven Solutions"
+  year: 2025
 
