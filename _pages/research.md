@@ -39,7 +39,6 @@ Investigating groundwater dynamics and hydroclimatic interactions using satellit
 </div>
 
 <div class="research-card">
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/research/codeforearth-logo.jpg" class="research-thumb" alt="Hydroclimatic Trends in Greece"> -->
 <div class="research-body">
 <h4 class="research-title">Hydroclimatic Trends in Greece</h4>
 <p class="research-desc">Investigation of long-term hydroclimatic variability and climate extremes across Greece using the ERA5-Land reanalysis. The project analyzes trends in precipitation, temperature, evapotranspiration, runoff, soil moisture, and extreme climate indices at multiple spatial scales. To support reproducible analyses, the open-source Python package HydroTrends was developed for hydroclimatic trend detection, visualization, and spatial aggregation.</p>
