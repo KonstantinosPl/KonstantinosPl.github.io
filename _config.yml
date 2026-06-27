@@ -38,11 +38,11 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+  # - name: talks
   - name: research
   - name: software
   - name: team
-  - name: teaching
+  # - name: teaching
   - name: blogs
 
 # ============================================================
