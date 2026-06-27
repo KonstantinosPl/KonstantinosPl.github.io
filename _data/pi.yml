@@ -2,10 +2,11 @@
 # Basic info (name, photo, links) now lives in _config.yml.
 # Delete this file if you only need the basics.
 
-# EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "(2023 - Today) PhD Candidate in Hydrogeology, AUTh"
+    - "(2022) MSc in Environmental Protection and Sustainable Development, AUTh"
+    - "(2021) BS of Geology, AUTh"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "(2023 - Today) PhD Candidate in Hydrogeology, AUTh"
+    - "(2022) MSc in Environmental Protection and Sustainable Development, AUTh"
+    - "(2021) BS of Geology, AUTh"
