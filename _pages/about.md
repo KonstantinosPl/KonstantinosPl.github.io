@@ -31,12 +31,12 @@ permalink: /about/
 </div>
 </div>
 
-{% if site.data.grants %}
+{% if site.data.horizon %}
 <div class="section-card">
-<h3>Grants</h3>
+<h3>Horizon Europe Programmes</h3>
 <ul>
-{% for grant in site.data.grants %}
-<li>{{ grant.name }}</li>
+{% for horizon in site.data.horizon %}
+<li>{{ horizon.name }}</li>
 {% endfor %}
 </ul>
 </div>
